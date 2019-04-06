@@ -3,4 +3,4 @@ Script para uso personal escrito en python para traer el tipo de cambio actualiz
 
 Usar en un cronjob:
 
-`0 */10 * * * /usr/bin/python /home/andy/dolarBot/dolar`
+`0 */10 * * * /usr/bin/python ~/dolarBot.py`
